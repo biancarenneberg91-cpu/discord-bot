@@ -8,7 +8,7 @@ import datetime
 #  KONFIGURATION
 # ─────────────────────────────────────────────
 TOKEN = os.environ.get("DISCORD_TOKEN")  # Railway Umgebungsvariable
-PREFIX = "!"
+PREFIX = "/"
 DATA_FILE = "data.json"
 
 # ─────────────────────────────────────────────
